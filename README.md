@@ -27,7 +27,7 @@ Then, place the file in the folder in the Tennis-Deep-Reinforcement-Learning Git
 
 ### Output
 
-<img src="/gif.gif" width= 500 px/>
+<img src="/out.gif" width= 500 px/>
 
 ### Instructions
 
@@ -59,7 +59,7 @@ Then, place the file in the folder in the Tennis-Deep-Reinforcement-Learning Git
 
 * The agent achieved the average score of 0.7 in less than 2000 episodes.
 
-<img src="/plot.png" width= 700 px/>
+<img src="/results.png" width= 700 px/>
 
 ## Built With
 
